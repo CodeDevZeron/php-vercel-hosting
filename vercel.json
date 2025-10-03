@@ -13,8 +13,8 @@
             "dest": "/api/index.php"
         },
         {
-            "src": "/about",
-            "dest": "/api/about.php"
+            "src": "/view",
+            "dest": "/api/view.php"
         }
     ]
 }
